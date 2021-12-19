@@ -96,7 +96,6 @@ int main(int argc, char **argv)
 				{
 					game[z + x] = solu[z + x];
 				}
-				x++;
 			}
 		
 //			if (solu[x - 51] != 6)
